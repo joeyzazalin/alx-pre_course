@@ -1,1 +1,6 @@
-ALX
+#!/bin/bash
+echo "ALX"
+
+
+
+clear
